@@ -14,7 +14,8 @@ public class Git_2025071 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Davaadorj Bayasgalan - 2025071");
     }
     
 }
